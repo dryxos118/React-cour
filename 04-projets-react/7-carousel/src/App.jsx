@@ -34,7 +34,7 @@ function App() {
       console.log("clean");
       clearInterval(inter);
     };
-  });
+  }, [people.length]);
 
   return (
     <>

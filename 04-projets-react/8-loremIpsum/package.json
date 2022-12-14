@@ -1,5 +1,5 @@
 {
-  "name": "4-carousel",
+  "name": "8-loremipsum",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,14 +10,12 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-icons": "^4.7.1"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
     "@types/react-dom": "^18.0.9",
     "@vitejs/plugin-react": "^3.0.0",
-    "eslint-config-react-app": "^7.0.1",
     "vite": "^4.0.0"
   }
 }

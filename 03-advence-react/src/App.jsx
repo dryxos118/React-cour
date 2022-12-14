@@ -1,4 +1,4 @@
-import Final from "./tutorial/3-conditional-rendu/3-show-hide";
+import Final from "./tutorial/4-forms/2-multiply-inputs";
 
 const App = () => {
   return (

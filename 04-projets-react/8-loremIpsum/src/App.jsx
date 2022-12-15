@@ -32,7 +32,7 @@ function App() {
           génerer
         </button>
       </form>
-      <article className="lorem-stext">
+      <article className="lorem-text">
         {text.map((txt, index) => {
           return <p key={index}>{txt}</p>;
         })}

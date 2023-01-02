@@ -7,7 +7,7 @@ npm i -D eslint-config-react-app
 
 Créer à la racine du projet un fichier .eslintrc.json
 
-```js
+```json
 {
   "extends": "react-app"
 }

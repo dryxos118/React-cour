@@ -1,11 +1,7 @@
-import Final from "./tutorial/useRef/useRef";
+import Final from "./tutorial/12-react-router/pages";
 
 const App = () => {
-  return (
-    <div className="container">
-      <Final />
-    </div>
-  );
+  return <Final />;
 };
 
 export default App;
